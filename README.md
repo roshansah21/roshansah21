@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fronted Project**
 
-- 🌱 I’m currently learning **React,MongoDB**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
