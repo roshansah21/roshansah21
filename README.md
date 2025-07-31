@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Sah</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">(2020-2024)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansah21&label=Profile%20views&color=0e75b6&style=flat" alt="roshansah21" /> </p>
 
