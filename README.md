@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansah21&label=Profile%20views&color=0e75b6&style=flat" alt="roshansah21" /> </p>
 
-- 🔭 I’m currently working on **Fronted Project**
 
-- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
